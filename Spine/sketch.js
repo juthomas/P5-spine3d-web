@@ -6,11 +6,11 @@ let spineP5;
 var spacing = 180;
 
 function preload() {
-    spineP1 = loadModel("https://raw.githubusercontent.com/juthomas/P5-Spine-3d/main/TripodeSpinep1v2.obj", true);
-    spineP2 = loadModel("https://raw.githubusercontent.com/juthomas/P5-Spine-3d/main/TripodeSpinep2v2.obj", true);
-    spineP3 = loadModel("https://raw.githubusercontent.com/juthomas/P5-Spine-3d/main/TripodeSpinep3.obj", true);
-    spineP4 = loadModel("https://raw.githubusercontent.com/juthomas/P5-Spine-3d/main/TripodeSpinep4.obj", true);
-    spineP5 = loadModel("https://raw.githubusercontent.com/juthomas/P5-Spine-3d/main/TripodeSpinep5.obj", true);
+    spineP1 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/Spine/TripodeSpinep1.obj", true);
+    spineP2 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/Spine/TripodeSpinep2.obj", true);
+    spineP3 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/Spine/TripodeSpinep3.obj", true);
+    spineP4 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/Spine/TripodeSpinep4.obj", true);
+    spineP5 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/Spine/TripodeSpinep5.obj", true);
 }
 
 function setup() {

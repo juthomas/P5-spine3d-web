@@ -13,27 +13,20 @@ body {
   /* align-items: center;  */
 }
 
+.web_view {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
 
-
-#spine {
-
+/* #spine {
     margin: 100px auto 0 auto;
     height: 800px;
     display: flex;
     justify-content: center;
 
-}
-#original {
-    /* padding-top: 100px; */
-    height: 800px;
-    display: flex;
-  
-    /* This centers our sketch horizontally. */
-    justify-content: center;
-  
-    /* This centers our sketch vertically. */
-    /* align-items: center; */
-}
+} */
+
 
 iframe {
   width: 100%;

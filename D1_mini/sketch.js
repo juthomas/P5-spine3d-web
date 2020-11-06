@@ -2,7 +2,7 @@ let originalP1;
 var spacing = 180;
 
 function preload() {
-    originalP1 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/Original/TripodeOriginal.obj", true);
+    originalP1 = loadModel("https://raw.githubusercontent.com/juthomas/P5-spine3d-web/master/assets/3d_Models/Tripode/D1_mini/TripodeD1Mini.obj", true);
 
 }
 
