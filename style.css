@@ -15,8 +15,8 @@ body {
 
 .web_view {
   height: 800px;
-  /* display: flex; */
-  /* justify-content: center; */
+  display: flex;
+  justify-content: center;
 }
 
 /* #spine {
